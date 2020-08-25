@@ -22,7 +22,7 @@ $sam_{numb}$ is the sample numbers = 1000
 
 - This function outputs statistical error probabilities: $Prob_D^{stats}$, $Prob_{FA}^{stats}$, $Prob_M^{stats}$, $Prob_{CR}^{stats}$ 
 
-### 2 Sensor_planner
+### 2 Sensor_planner (This can be directly integrated with other groups)
 
 - This function takes $A,B,H,Q,R,uts,ts$ as inputs.
 - This function outputs theoretical error probabilities:  $Prob_D,Prob_{FA},Prob_M,Prob_{CR}$ 
